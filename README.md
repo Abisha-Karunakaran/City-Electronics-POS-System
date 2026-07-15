@@ -20,21 +20,21 @@ POSCE (Point Of Sale – City Electronics) is a **desktop Point of Sale (POS) ap
 
 ```
 POSCE/
-├── build.xml                  # Ant build script
-├── nbproject/                 # NetBeans project metadata
+├── build.xml                                    # Ant build script
+├── nbproject/                                   # NetBeans project metadata
 └── src/
-    ├── Login.java / Login.form            # Login screen (Admin + Customer)
-    ├── Register.java                      # Customer sign-up screen
-    ├── UserStore.java                     # In-memory user credential store
-    ├── Admin.java / Admin.form            # Admin dashboard (navigation hub)
-    ├── Products.java / Products.form      # Product CRUD management
-    ├── Categories.java / Categories.form  # Category CRUD management
-    ├── Supplier.java / Supplier.form      # Supplier CRUD management
-    ├── Customers.java / Customers.form    # Customer CRUD management
-    ├── Order.java / Order.form            # Product browsing, cart & invoice
-    ├── CustomerHome.java / CustomerHome.form  # Customer landing page
-    ├── img/                                # Backgrounds, login art, sidebar icons
-    └── image/                              # Category/product icons (icons8 set)
+    ├── Login.java / Login.form                  # Login screen (Admin + Customer)
+    ├── Register.java                            # Customer sign-up screen
+    ├── UserStore.java                           # In-memory user credential store
+    ├── Admin.java / Admin.form                  # Admin dashboard (navigation hub)
+    ├── Products.java / Products.form            # Product CRUD management
+    ├── Categories.java / Categories.form        # Category CRUD management
+    ├── Supplier.java / Supplier.form            # Supplier CRUD management
+    ├── Customers.java / Customers.form          # Customer CRUD management
+    ├── Order.java / Order.form                  # Product browsing, cart & invoice
+    ├── CustomerHome.java / CustomerHome.form    # Customer landing page
+    ├── img/                                     # Backgrounds, login art, sidebar icons
+    └── image/                                   # Category/product icons (icons8 set)
 ```
 
 ---
